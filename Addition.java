@@ -5,3 +5,4 @@ public class Addition {
          System.out.println("addition of two numbers is:" +c);
     }
 }
+//This is an addition program
