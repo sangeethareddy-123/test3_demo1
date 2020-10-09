@@ -13,8 +13,8 @@ import java.util.Scanner;
          System.out.println("Given word is a pallindrome");
         }
         else{
-         System.out.println("Given word is not a pallindrome");
+         System.out.println("Given word is not a pallindrome"); 
  
         }
-     }
-}
+     } 
+}     //this is pallindrome pgm
